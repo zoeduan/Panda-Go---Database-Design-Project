@@ -1,5 +1,8 @@
 # Panda-Go---Database-Design-Project
 
+Please refer to this video for more detailed information on this project.
+https://www.youtube.com/watch?v=5ucKWt7MKJM
+
 Executive summary for Project (include description of all software)
 
 — Front End: HTML5/CSS3/AngularJS/Bootstrap.
